@@ -1,32 +1,30 @@
-# Eric Yeh
+# Hi, I'm Eric 👋
 
-Electrical Engineering student at National Taiwan University building practical tools in Python, JavaScript, AI, and developer tooling.
+I'm an Electrical Engineering student at **National Taiwan University**, building practical tools with **Python and JavaScript**.
 
-- Maintainer of [LaTeX in NotebookLM](https://github.com/ergs0204/LatexInNotebooklm), a Tampermonkey userscript used by the NotebookLM community to render math with KaTeX.
-- Creator of [Pyleet](https://github.com/ergs0204/Pyleet), a published Python package for running and testing LeetCode solutions locally.
-- Open-source contributor to [opencode-remote-android](https://github.com/giuliastro/opencode-remote-android), with merged work on Markdown rendering, model search, command routing, and session handling.
-- Interested in cybersecurity, applied AI, algorithms, and useful developer tools.
+My interests include cybersecurity, applied AI, algorithms, and developer tooling. I enjoy turning everyday workflow problems into tools other people can use.
 
-## Selected Work
+## Selected projects
 
-| Project | What it does | Highlights |
-| --- | --- | --- |
-| [LaTeX in NotebookLM](https://github.com/ergs0204/LatexInNotebooklm) | Renders inline and display LaTeX in Google NotebookLM using KaTeX | 190+ stars, 10+ forks, MIT licensed |
-| [Pyleet](https://github.com/ergs0204/Pyleet) | Runs LeetCode Python solutions locally through a CLI or Python API | Published on PyPI, custom data structures, automatic test retrieval |
-| [Kesto Solver](https://github.com/ergs0204/kesto-solver) | Finds shortest solutions for 8x8 sliding-block puzzles | Breadth-first search, symmetry reduction, tested CLI |
-| [2048 AI](https://github.com/ergs0204/2048ai) | Trains a CNN to play 2048 using a genetic algorithm | Configurable training, replay tools, educational documentation |
+| Project | What it does |
+| --- | --- |
+| [LaTeX in NotebookLM](https://github.com/ergs0204/LatexInNotebooklm) | Renders LaTeX in Google NotebookLM with KaTeX. |
+| [Pyleet](https://github.com/ergs0204/Pyleet) | Runs and tests LeetCode Python solutions locally through a CLI and Python API. |
+| [Scribd PDF Downloader](https://github.com/ergs0204/scribd-pdf-downloader) | Exports authorized Scribd previews to PDF through a Chrome/Edge extension. |
+| [Kesto Solver](https://github.com/ergs0204/kesto-solver) | Finds shortest solutions to sliding-block puzzles using BFS and symmetry reduction. |
 
-## Open Source
+## Open source
 
-Recent merged contributions to `giuliastro/opencode-remote-android`:
+I contribute performance improvements, bug fixes, and usability improvements to tools I use. Selected merged contributions:
 
-- [Render chat messages with a Markdown parser](https://github.com/giuliastro/opencode-remote-android/pull/18)
-- [Allow searching the model picker](https://github.com/giuliastro/opencode-remote-android/pull/19)
-- [Fix slash-command routing](https://github.com/giuliastro/opencode-remote-android/pull/20)
-- [Fix global session listing and activity time](https://github.com/giuliastro/opencode-remote-android/pull/21)
+| Project | Contributions |
+| --- | --- |
+| [Obsidian Git](https://github.com/Vinzent03/obsidian-git) | [Reduced duplicate packfile loading when browsing history on mobile](https://github.com/Vinzent03/obsidian-git/pull/1221). |
+| [ComfyUI LoRA Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) | [Added support for direct Civitai download URLs while preserving file selection](https://github.com/willmiao/ComfyUI-Lora-Manager/pull/1152), and [fixed model/version ID parsing and missing-model diagnostics](https://github.com/willmiao/ComfyUI-Lora-Manager/pull/1140). |
+| [uMap](https://github.com/umap-project/umap) | [Fixed popup alignment for right-to-left languages](https://github.com/umap-project/umap/pull/3432). |
+| [agent-sweep](https://github.com/Ishannaik/agent-sweep) | [Corrected shell completion error handling and CLI documentation](https://github.com/Ishannaik/agent-sweep/pull/53). |
+| [harness-remote](https://github.com/giuliastro/harness-remote) | Added [Markdown chat rendering](https://github.com/giuliastro/harness-remote/pull/18) and [model search](https://github.com/giuliastro/harness-remote/pull/19); fixed [command routing](https://github.com/giuliastro/harness-remote/pull/20) and [session listing](https://github.com/giuliastro/harness-remote/pull/21). |
 
-## Links
+## Find me
 
-- [Portfolio](https://ergs0204.github.io/)
-- [PyPI: Pyleet](https://pypi.org/project/pyleet/)
-- [Email](mailto:ergs0204@gmail.com)
+[Portfolio](https://ergs0204.github.io/) · [Pyleet on PyPI](https://pypi.org/project/pyleet/) · [Buy me a coffee](https://buymeacoffee.com/ergs02046)
