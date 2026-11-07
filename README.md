@@ -25,6 +25,6 @@ I contribute performance improvements, bug fixes, and usability improvements to 
 | [agent-sweep](https://github.com/Ishannaik/agent-sweep) | [Corrected shell completion error handling and CLI documentation](https://github.com/Ishannaik/agent-sweep/pull/53). |
 | [harness-remote](https://github.com/giuliastro/harness-remote) | Added [Markdown chat rendering](https://github.com/giuliastro/harness-remote/pull/18) and [model search](https://github.com/giuliastro/harness-remote/pull/19); fixed [command routing](https://github.com/giuliastro/harness-remote/pull/20) and [session listing](https://github.com/giuliastro/harness-remote/pull/21). |
 
-## Find me
+## Connect
 
-[Portfolio](https://ergs0204.github.io/) · [Pyleet on PyPI](https://pypi.org/project/pyleet/) · [Buy me a coffee](https://buymeacoffee.com/ergs02046)
+[🌐 Portfolio](https://ergs0204.github.io/) · [📦 PyPI](https://pypi.org/project/pyleet/) · [☕ Support my work](https://buymeacoffee.com/ergs02046)
